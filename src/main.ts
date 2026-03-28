@@ -53,6 +53,9 @@ function rename() {
                 })
             })
         }
+        setTimeout(() => {
+            console.log(`🏁 Complete!`)
+        }, 2000)
     })
 
 }
