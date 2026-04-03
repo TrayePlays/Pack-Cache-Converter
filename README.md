@@ -1,7 +1,7 @@
 # Pack Cache Converter
 
 **Step 1.**
-Download from latest release and extract
+Download from [latest release](https://github.com/TrayePlays/Pack-Cache-Converter/releases/tag/release) and extract
 
 **Step 2.**
 Open terminal in folder and run `npm install`
